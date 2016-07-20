@@ -1,0 +1,11 @@
+html {
+
+    background-image: url("Tweet.jpg");
+    background-color: #cccccc;
+    background: cover no-repeat;
+}
+
+.genBtn {
+  align-items: center;
+  color: #4099ff
+}

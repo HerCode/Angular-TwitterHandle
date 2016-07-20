@@ -1,0 +1,28 @@
+{
+  "name": "angular-twitterhandle",
+  "version": "1.0.0",
+  "description": "##Description## Group Angular Challenge ALL RIGHT! Set up a NEW project! From the ground up. Bring in Angular and Express that's all we will need for our project today (unless you do Pro mode).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerCode/Angular-TwitterHandle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerCode/Angular-TwitterHandle/issues"
+  },
+  "homepage": "https://github.com/HerCode/Angular-TwitterHandle#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "body": "^5.1.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "parser": "^0.1.4",
+    "pg": "^6.0.3"
+  }
+}
